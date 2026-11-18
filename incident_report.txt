@@ -1,0 +1,33 @@
+
+NORTHSTAR SYSTEMS
+INTERNAL SECURITY INCIDENT REPORT
+
+Incident ID: NS-2026-104
+Date: 12 October 2026
+Classification: CONFIDENTIAL
+
+INCIDENT SUMMARY:
+
+An encrypted backup drive was reported missing from Data Room B.
+
+The incident is believed to have occurred between
+22:10 and 22:20 on 12 October 2026.
+
+INITIAL INVESTIGATION:
+
+1. The backup drive was last confirmed inside Data Room B.
+2. The east corridor was active during the incident window.
+3. The loading bay was not involved in the reported movement.
+4. CCTV still images were exported for investigation.
+
+INVESTIGATION REQUIREMENTS:
+
+- Identify the camera that monitors Data Room B.
+- Locate the relevant camera export at 22:14:36.
+- Do not assume that every exported image is relevant.
+- Preserve the original evidence and do not modify the files.
+
+The investigation team has provided a camera map and
+a camera export record for further examination.
+
+END OF REPORT

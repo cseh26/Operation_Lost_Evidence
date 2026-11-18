@@ -1,0 +1,20 @@
+
+NORTHSTAR SYSTEMS
+CCTV CAMERA LOCATION REGISTER
+
+CAM-04 : East Corridor
+CAM-07 : Data Room B (Server Room)
+CAM-09 : Loading Bay
+
+CAMERA NOTES:
+
+CAM-04 monitors movement through the east corridor.
+
+CAM-07 monitors the interior of Data Room B,
+where the encrypted backup drive was stored.
+
+CAM-09 monitors the warehouse loading bay.
+
+All cameras use the same local system clock.
+
+END OF REGISTER
